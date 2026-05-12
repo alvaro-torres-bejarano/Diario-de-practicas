@@ -1,11 +1,11 @@
 
-# Investigacion sobre GNU/Linux y el software libre
+# Investigación sobre GNU/Linux y el software libre
 
 
 ## GNU/LINUX
 
-GNU/Linux es un sistema operativo de tipo Unix de software libre y codigo abierto,
-que se compone de un nucleo Linux y herramientas GNU.  
+GNU/Linux es un sistema operativo de tipo Unix de software libre y código abierto,
+que se compone de un núcleo Linux y herramientas GNU.  
 
 ## SOFTWARE LIBRE 
 
@@ -21,8 +21,8 @@ El software libre es importante, por que promueve la innovación.
   
 ### Tipos de licencia del software libre
 
-El software libre tiene una serie de licencias que limitan en ciearta media  
-lo que se puede hacer con el software, a continuacon una lista con los  
+El software libre tiene una serie de licencias que limitan en cierta media  
+lo que se puede hacer con el software, a continuación una lista con los  
 tipos de licencia:
 
 * Licencia GPL
@@ -40,15 +40,15 @@ tipos de licencia:
 
 \newpage
 
-# Investigacion sobre la comunidad KDE y su ecosistema de aplicacines y el entorno Plasma
+# Investigación sobre la comunidad KDE y su ecosistema de aplicaciones y el entorno Plasma
 
 ## La comunidad KDE
 
-KDE es una comunidad que desarrollan software libre y de codigo abierto,  
-con un calro enfoque en la pesonalizacion y en al comodidad para los usuarios.  
+KDE es una comunidad que desarrollan software libre y de código abierto,  
+con un claro enfoque en la personalización y en al comodidad para los usuarios.  
 KDE esta compuesta principalmente de voluntarios al rededor del todo el mundo,  
-sin embargo la organizacion sin animo de lucro KDE e.V. en alemania es la  
-representacion legal de KDE \(en España es KDE España\).
+sin embargo la organización sin animo de lucro KDE e.V. en Alemania es la  
+representación legal de KDE \(en España es KDE España\).
 
 ## Ecosistema de KDE
 
@@ -59,39 +59,39 @@ Su software esta principalmente escrito en C++ y usan Qt como plataforma grafica
 ### Aplicaciones que me parecen interesantes
 
 * Falkon \-Navegador Web
-* Optilmage \-Optinizador de imagenes
-* AudioTube \-Alpicacion de musica
-* KDE Connect \-Sincronizacion de dispositivos
+* Optilmage \-Optimizador de imágenes
+* AudioTube \-Aplicación de musica
+* KDE Connect \-Sincronización de dispositivos
 
 ### Proyectos interesantes
 
-* Plasma Mobile \-Entorno Plasma para moviles
+* Plasma Mobile \-Entorno Plasma para móviles
 * KDevelop \-Entorno de desarrollo
 
 ### Proyectos exitosos de KDE
 
-* Plasma \-Entorno de escritorio grafico
+* Plasma \-Entorno de escritorio gráfico
 * Krita \-Programa de dibujo digital
 * Kdenlive \-Editor de video
 * Gcompris \-Juego educativo
 
 \newpage
 
-## Instalacion GNU/Linux y entorno KDE Plasma
+## Instalación GNU/Linux y entorno KDE Plasma
 
-### Que distribucion he elegido y porque
+### Que distribución he elegido y porque
 
-He elegido Kubuntu, porque se basa en Ubuntu un sitema operativo,  
-el cual ya he uasdo con anterioridad.
+He elegido Kubuntu, porque se basa en Ubuntu un sistema operativo,  
+el cual ya he usado con anterioridad.
 
-### ¿Como asido la instalacion?
+### ¿Como asido la instalación?
 
-La instalacion fue sencilla, basicamente fue descargar la iso  
+La instalación fue sencilla, básicamente fue descargar la iso  
 ponerla en la maquina virtual, configurar una cuantas cosas y ya.
 
 ### ¿Que me parece Plasma?
 
-En el poco tiempo que lo he usado me ha parecido comodo y  
+En el poco tiempo que lo he usado me ha parecido cómodo y  
 y que es exageradamente personalizable \(en el buen sentido\),  
 en serio desde como se ven las cosas \(como ventanas o la fecha\),  
 hasta el menu de inicio, es cuanto menos emocionante.
@@ -100,17 +100,17 @@ hasta el menu de inicio, es cuanto menos emocionante.
 
 ## ¿Crees que es importante el software libre en el sector IT actual?
 
-No sabria determinar que tan importante es el software libre.
+No sabría determinar que tan importante es el software libre.
 
-## ¿Cual es tu percepcion sobre el software libre en el mundo IT y real?
+## ¿Cual es tu percepción sobre el software libre en el mundo IT y real?
 
 Que en el mundo de los servidores es lo mejor y que a nivel usuario casual no tanto \(por ahora\).
 
-## ¿Te involucrarias en algun proyecto de software libre?
+## ¿Te involucrarías en algún proyecto de software libre?
 
 Puede que si o puede que no, porque por un lado la idea me parece interesante, pero por  
-otro lado eso significaria que tendria que trabajar en equipo, lo que no me gusta tanto.  
-En conclusion no se.
+otro lado eso significaría que tendría que trabajar en equipo, lo que no me gusta tanto.  
+En conclusión no se.
 
 \newpage
 

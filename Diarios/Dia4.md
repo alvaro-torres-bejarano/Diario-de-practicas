@@ -1,1 +1,1 @@
-He estado añadiendo una bibliografia y una nueva seccion al documento, tambien he creado este repositorio de git y github y despues he personalizado mi entorno plasma.
+He estado añadiendo una bibliografía y una nueva sección al documento, también he creado este repositorio de git y github y después he personalizado mi entorno plasma.
