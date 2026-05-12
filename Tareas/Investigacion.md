@@ -52,9 +52,9 @@ representación legal de KDE \(en España es KDE España\).
 
 ## Ecosistema de KDE
 
-### ¿Sobre que lenguaje y plataforma grafica se desarrolla KDE?
+### ¿Sobre que lenguaje y plataforma gráfica se desarrolla KDE?
 
-Su software esta principalmente escrito en C++ y usan Qt como plataforma grafica.  
+Su software esta principalmente escrito en C++ y usan Qt como plataforma gráfica.  
 
 ### Aplicaciones que me parecen interesantes
 
@@ -94,7 +94,7 @@ ponerla en la maquina virtual, configurar una cuantas cosas y ya.
 En el poco tiempo que lo he usado me ha parecido cómodo y  
 y que es exageradamente personalizable \(en el buen sentido\),  
 en serio desde como se ven las cosas \(como ventanas o la fecha\),  
-hasta el menu de inicio, es cuanto menos emocionante.
+hasta el menú de inicio, es cuanto menos emocionante.
 
 # Ideas personales
 
@@ -114,7 +114,7 @@ En conclusión no se.
 
 \newpage
 
-# Bibliografia
+# Bibliografía
 
 ## Sobre GNU/Linux
 
