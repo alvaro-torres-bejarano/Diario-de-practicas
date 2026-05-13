@@ -1,7 +1,6 @@
 
 # Investigación sobre GNU/Linux y el software libre
 
-
 ## GNU/LINUX
 
 GNU/Linux es un sistema operativo de tipo Unix de software libre y código abierto,
@@ -38,7 +37,21 @@ tipos de licencia:
 * Licencia Apache
 * Licencia PHP
 
-\newpage
+### Principales diferencias entre GPL, AGPL y LGPL
+
+La diferencia entre estas tres son sus propósitos:
+
+* GPL: Su propósito es garantizar que el software sea libre y que las modificaciones y derivaciones también lo sean.
+* LGPL: El propósito es similar, pero es mas permisiva con el uso de proyectos propietarios.
+* AGPL: El propósito es extender las restricciones GPL a servicios distribuidos en la nube.
+
+### Principales diferencias entre BSD Y GPL
+
+La diferencia principal es que BSD es una licencia permisiva, lo que significa que mientras reconozcas al autor original puedes hacer lo que quieras y la licencia GPL es de copyleft y exige que las obras derivadas sean también libres.
+
+### Discusión entre los que defienden GPL v2 y los que defienden GPL v3
+
+***EN PROCESO***
 
 # Investigación sobre la comunidad KDE y su ecosistema de aplicaciones y el entorno Plasma
 
@@ -75,8 +88,6 @@ Su software esta principalmente escrito en C++ y usan Qt como plataforma gráfic
 * Kdenlive \-Editor de video
 * Gcompris \-Juego educativo
 
-\newpage
-
 ## Instalación GNU/Linux y entorno KDE Plasma
 
 ### Que distribución he elegido y porque
@@ -112,8 +123,6 @@ Puede que si o puede que no, porque por un lado la idea me parece interesante, p
 otro lado eso significaría que tendría que trabajar en equipo, lo que no me gusta tanto.  
 En conclusión no se.
 
-\newpage
-
 # Bibliografía
 
 ## Sobre GNU/Linux
@@ -124,6 +133,13 @@ En conclusión no se.
 
 [Pagina sobre el sobre el software libre](https://es.wikipedia.org/wiki/Software_libre)  
 [Pagina sobre las licencias del software libre](https://es.wikipedia.org/wiki/Licencia_de_software_libre)
+
+### Acerca de las distintas licencias
+
+[Licencia GPL](https://es.wikipedia.org/wiki/GNU_general_public_License)  
+[Licencia LGPL](https://es.wikipedia.org/wiki/GNU_Lesser_General_Public_License)  
+[Licencia AGPL](https://es.wikipedia.org/wiki/GNU_Affero_General_Public_License)  
+[Licencia estilo BSD](https://es.wikipedia.org/wiki/Licencia_BSD)  
 
 ## Sobre KDE
 
