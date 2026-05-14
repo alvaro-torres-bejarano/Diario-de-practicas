@@ -51,7 +51,8 @@ La diferencia principal es que BSD es una licencia permisiva, lo que significa q
 
 ### Discusión entre los que defienden GPL v2 y los que defienden GPL v3
 
-***EN PROCESO***
+Esta discusión surge de los cambios de GPL v3 sobre la "tivoizacion", la tivoizacion consiste de que se use hardware para imposibilitar
+ejecutar software modificado en ese hardware. GPL v3 impide que se pueda hacer tivoizacion, mientras que GPL v2 no tiene nada para impedirlo.
 
 # Investigación sobre la comunidad KDE y su ecosistema de aplicaciones y el entorno Plasma
 
