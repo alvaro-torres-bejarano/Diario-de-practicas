@@ -150,3 +150,8 @@ He cambiado la anchura para que se ajuste al contenido y la visibilidad para que
 ## Después
 
 ![Despues](./imagenes/Escritorio_final.png)  
+
+# Bibliografía
+
+<https://www.youtube.com/watch?v=TYmSAroC9SQ>  
+<https://www.youtube.com/watch?v=5RT9PqOrxEA>  

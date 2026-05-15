@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Service
+MimeType=inode/directory;
+Actions=holaMundo
+
+[Desktop Action holaMundo]
+Name=hola mundo
+Icon=background
+Exec=~/bin/holaMundo.sh

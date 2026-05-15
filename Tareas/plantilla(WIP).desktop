@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+MimeType=inode/directory
+Actions=plantilla
+
+[Desktop Action plantilla]
+Name=Usar Plantilla
+Exec=cp ~/Plantillas/plantilla.md

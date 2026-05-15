@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+MimeType=inode/directory;
+Actions=crearFichero
+
+[Desktop Action crearFichero]
+Name=Crear fichero
+Exec=touch %u/nombre.txt

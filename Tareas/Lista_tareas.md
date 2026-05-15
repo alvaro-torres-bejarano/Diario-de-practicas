@@ -6,4 +6,5 @@
 * Tarea 5, Cuestionarios sobre lecturas recomendadas sobre SL: 0%
 * Tarea 6, Creación de un repositorio de seguimiento en Github: 100%
 * Tarea 7, Personalización del escritorio KDE Plasma: 100%
-* Tarea 8, Investigación sobre adaptación de KDE Plasma a perfiles de usuario de una organización: 0%
+* Tarea 8, Investigación sobre adaptación de KDE Plasma a perfiles de usuario de una organización: 10%
+* Tarea 9, Menus de servicio: 70%
