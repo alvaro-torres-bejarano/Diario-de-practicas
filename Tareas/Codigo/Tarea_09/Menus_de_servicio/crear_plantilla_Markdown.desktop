@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+MimeType=inode/directory;
+Actions=crearDirectorio
+
+[Desktop Action crearDirectorio]
+Name=Crear directorio plantilla Mardown
+Exec=~/bin/Script_5.sh %u
