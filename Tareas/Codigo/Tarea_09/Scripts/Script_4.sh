@@ -24,7 +24,11 @@ mkdir -p $1/$directorio/test
 ;;
 
 Markdown+Pandoc)
-
+mkdir -p $1/$directorio/Enlaces_y_referencias
+mkdir -p $1/$directorio/Texto/Imagenes
+touch $1/$directorio/base.md
+touch $1/$directorio/conf.yml
+touch $1/$directorio/Makefile
 ;;
 esac
 
