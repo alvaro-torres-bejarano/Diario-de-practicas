@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+MimeType=inode/directory;
+Actions=crearDirectorio
+
+[Desktop Action crearDirectorio]
+Name=Crear directorio plantilla C++
+Exec=~/bin/Script_2.sh %u
